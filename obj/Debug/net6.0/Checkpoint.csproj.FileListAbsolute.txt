@@ -1,0 +1,15 @@
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\bin\Debug\net6.0\Checkpoint.exe
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\bin\Debug\net6.0\Checkpoint.deps.json
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\bin\Debug\net6.0\Checkpoint.runtimeconfig.json
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\bin\Debug\net6.0\Checkpoint.dll
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\bin\Debug\net6.0\Checkpoint.pdb
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\Checkpoint.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\Checkpoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\Checkpoint.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\Checkpoint.AssemblyInfo.cs
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\Checkpoint.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\Checkpoint.dll
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\refint\Checkpoint.dll
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\Checkpoint.pdb
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\Checkpoint.genruntimeconfig.cache
+C:\Users\Роман\Desktop\GB_Разработчик\Git_education\Контрольная работа\Checkpoint\obj\Debug\net6.0\ref\Checkpoint.dll
